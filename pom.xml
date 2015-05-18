@@ -267,7 +267,7 @@
         <targetJdk>1.7</targetJdk>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <powermock.version>1.5.5</powermock.version>
-        <portal.core.version>224</portal.core.version> <!-- 2015-05-13 Nightly Build -->
+        <portal.core.version>226</portal.core.version> <!-- 2015-05-15 Nightly Build -->
         <slf4jVersion>1.7.5</slf4jVersion>
     </properties>
 
